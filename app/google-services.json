@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165369452042",
+    "project_id": "scanner-85eb4",
+    "storage_bucket": "scanner-85eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165369452042:android:308b9f3c67b194b3deb1f3",
+        "android_client_info": {
+          "package_name": "com.mynoteapp.scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm1m-tJ7LDgpAH3LrMJw--udrhJSgruY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
